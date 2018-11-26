@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WallpaperEngine</string>
+    <string-array name="image_name">
+        <item>Big_Moon</item>
+        <item>Cloudy Weather</item>
+        <item>Dark Night</item>
+        <item>Metalic Design</item>
+        <item>Forest Besides River</item>
+        <item>Ghost Scene</item>
+        <item>Harmonic</item>
+        <item>Green Field in Cloudy</item>
+        <item>ICE pieces</item>
+        <item>Green Leaf</item>
+        <item>Moon</item>
+        <item>Purple Color</item>
+        <item>Sea Beach</item>
+        <item>Tree</item>
+        <item>White Background</item>
+    </string-array>
+</resources>

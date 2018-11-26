@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/big_moon"
+    android:id="@+id/imgLay"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample Text"
+        android:textAlignment="center"
+        android:textSize="14dp"
+        android:textColor="#000"
+        android:id="@+id/txtLay"/>
+
+</LinearLayout>
